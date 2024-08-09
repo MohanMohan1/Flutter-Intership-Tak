@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  flutter_local_notifications: ^9.0.0
